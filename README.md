@@ -9,3 +9,4 @@ How does sales revenue vary over time?
 What is the customer lifetime value?
 
 The dataset is taken from the kaggle (https://www.kaggle.com/jr2ngb/superstore-data)
+The conclusions of the analysis are shown at at end of the code file.

@@ -2,7 +2,7 @@
 A portfolio project done by Analyzing sales data using the "Superstore Sales" dataset from Kaggle
 
 
-This project is done by using Python to clean and transform the data, and then use libraries like Pandas, seaborn and Matplotlib to create visualizations to answer questions such as:
+The data consist of sales details from the year 2011 to 2014. This project is done by using Python to clean and transform the data, and then use libraries like Pandas, seaborn and Matplotlib to create visualizations to answer questions such as:
 Which products are most popular?
 Which regions have the highest sales?
 How does sales revenue vary over time?
